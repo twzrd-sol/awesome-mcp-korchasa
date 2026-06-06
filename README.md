@@ -338,6 +338,7 @@ Table of Contents:
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) (1580 TypeScript) - The Stripe Agent Toolkit is a library that integrates Stripe's API into various agent frameworks and the Model Context Protocol (MCP) to enable seamless payment and billing automation in intelligent agent workflows.
 - [whchien/ai-trader](https://github.com/whchien/ai-trader) (704 Python) - AI-Trader is a professional backtesting framework for algorithmic trading with multi-market support and integrated Model Context Protocol (MCP) server enabling AI assistant interaction.
 
+- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) (0 Python) - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s.
 ### Other MCP Servers
 
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) (5574 ) - A curated list of Model Context Protocol (MCP) servers that enable AI models to securely interact with local and remote resources through standardized server implementations, enhancing AI capabilities across various domains.
